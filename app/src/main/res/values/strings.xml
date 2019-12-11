@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Insurance premium calculator</string>
+    <string name="RB1">Male</string>
+    <string name="Rb2">Female</string>
+    <string name="C1">Smoker</string>
+    <string name="T1">Age :</string>
+    <string name="T2">Gender :</string>
+    <string name="T3">Smoker or non-smoker</string>
+    <string name="T4">Premium(Rm) :</string>
+    <string name="T5"></string>
+    <string name="btn1">Proceed</string>
+    <string name="btn2">Reset</string>
+
+</resources>
